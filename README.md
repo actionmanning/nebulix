@@ -1,3 +1,11 @@
+#### History
+
+06.10.2024, Copy of Nebulux.
+07.10.2024, Add Blog content New York Knuckle Sandwich & Confession Box Empty.
+
+
+
+
 # Nebulix | Astro + Static CMS
 
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
